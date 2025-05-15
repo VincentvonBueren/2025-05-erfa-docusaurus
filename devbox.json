@@ -1,0 +1,16 @@
+{
+  "packages": [
+    "nodejs@20",
+  ],
+  "shell": {
+    "init_hook": [
+      "echo '💡 Devbox ready! Run `npm install` to install dependencies.'",
+      "echo '🧪 Use `npm run start` to launch the dev server (search disabled)'",
+      "echo '📦 Use `npm run build && npx serve build` for a production preview (search enabled)'"
+    ]
+  },
+  "services": {},
+  "devbox": {
+    "allowGlobal": true
+  }
+}
