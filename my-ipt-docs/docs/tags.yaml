@@ -1,0 +1,18 @@
+
+# Tags metadata used in tutorial markdown frontmatter
+# Used for organizing and filtering in the future
+
+- label: internal
+  description: Internal documentation and processes for ipt team members.
+
+- label: how-to
+  description: Step-by-step instructions and practical implementation guides.
+
+- label: onboarding
+  description: Help new contributors get started with the documentation project.
+
+- label: tutorial
+  description: A practical tutorial to learn how to edit and customize the ipt Docs site.
+
+- label: docusaurus
+  description: Related to Docusaurus framework, themes, or config customization.
